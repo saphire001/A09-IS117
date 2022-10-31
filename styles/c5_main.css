@@ -35,7 +35,7 @@ header h3 {
 header img {
 	padding-left: 30px;
 	padding-right: 30px;
-	float: left;
+	float: right;
 	width: 100px;
 	height: 100px;
 }
@@ -91,7 +91,7 @@ footer {
 footer p {
 	padding-top: 1em;
 	padding-bottom: 1em;
-	margin: 0px;
+	margin: 0;
 	text-align: center;
 	color: white;
 }
